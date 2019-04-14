@@ -1,0 +1,16 @@
+1 2 4 5 6 7 8 3.000000
+234 2 6 7 g f d 3.000000
+1 2 5 6 7 8 8 4.000000
+2 3 ed sds sdf fds ew 34.000000
+1 2 ds fdsa uytre kjhg jhgf 3.000000
+1 2 fg dcm ksc klnds lsdc 3.000000
+0 0 gh k nkj nl kj 0.000000
+12 2 fds cx uwjgcb wuxk dbhwx 12.000000
+3 7 ghjk cn fty ug jkn 8.000000
+0 9 ghjk fghjk tyuio ghjk ghjk 8.000000
+4 9 dffghjk df df ok gh 0.000000
+4 9 dffghjk df df ok gh 0.000000
+4 9 dffghjk df df ok gh 0.000000
+2 3 5 6 7 8 9 4.000000
+0 0 s d f g r 0.000000
+1 0 w d d dd ddd 0.000000
